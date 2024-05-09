@@ -7,8 +7,6 @@
 - 레퍼런스
 - etc
 
-![image](https://github.com/URBAN-IA/URBANIA/assets/157013014/21f04fe2-be5c-4958-9d7a-01fab980e331)
-
-
-![image](https://github.com/URBAN-IA/URBANIA/assets/157013014/e46b9503-c4e9-49a1-983b-36791af6ef20)
-![image](https://github.com/URBAN-IA/URBANIA/assets/157013014/7ea2ac78-b090-490b-af76-5032baa1387b)
+![image](https://github.com/URBAN-IA/URBANIA/assets/157013014/e13db949-09f5-4c25-bfee-2af7fe203ef8)
+![image](https://github.com/URBAN-IA/URBANIA/assets/157013014/70c36f37-4737-4e84-ab5f-9eadf5113801)
+![image](https://github.com/URBAN-IA/URBANIA/assets/157013014/e6f1a26b-0e76-40cb-9baa-01b9d65a9af6)
